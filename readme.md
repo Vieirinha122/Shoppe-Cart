@@ -30,7 +30,7 @@ O carrinho de compras possui as seguintes ações:
 
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Vieirinha122/Shoppe-Cart.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
